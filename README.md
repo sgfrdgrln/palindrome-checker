@@ -2,8 +2,9 @@
 
   <h2>Overview 🔍</h2>
 
-  <p>The Palindrome Checker is a Java console application designed to determine whether a given number or word is a palindrome. 
-    A palindrome is a sequence of characters that reads the same forwards and backwards. For example, "radar" and "12321" are palindromes, while "hello" and "12345" are not.</p>
+  <p>The Palindrome Checker is a Java console application designed to determine whether a given number or word is a palindrome.</p>
+  
+  <p>A palindrome is a sequence of characters that reads the same forwards and backwards. For example, "radar" and "12321" are palindromes, while "hello" and "12345" are not.</p>
 
   <h2>How it Works 🚀</h2>
 
